@@ -1,0 +1,18 @@
+.header{
+background-color: var(--bg-color);
+}
+.header__container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.header__icon{
+    width: 32px;
+}
+.header__name{
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+

@@ -1,0 +1,10 @@
+.burger-icon{
+    width: 35px;
+}
+.burger-checkbox {
+    display: none;
+}
+
+.burger-icon {
+    font-size: 3.5rem;
+}
